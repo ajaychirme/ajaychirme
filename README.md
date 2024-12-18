@@ -3,30 +3,56 @@
 💻 Front-End Developer with 3 years of experience  
 🎨 Passionate about crafting elegant web interfaces  
 
-![Animation Wave](https://svgshare.com/i/ttc.svg)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AjayChirme/github-profile-content/main/wave.svg" alt="Wave Animation" style="max-width: 100%;">
+</div>
 
 ---
 
 ## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+</p>
 
-<!-- Adding simple animation icons -->
+---
+
 <div align="center">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" />
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="80" />
-    <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="80" />
+  <p><b>✨ Making Web Magic ✨</b></p>
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="100" fill="#282c34" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24px" fill="white">🔧 Continuous Learning + Innovation</text>
+  </svg>
 </div>
 
 ---
 
 ## 📫 Connect with Me
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://linkedin.com/in/ajaychirme)
-
-<!-- Adding a bouncing arrow for fun -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AjayChirme/github-profile-content/main/down-arrow.gif" width="100">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=firefoxbrowser&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/ajaychirme" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
 </p>
+
+<p align="center">
+    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="30" viewBox="0 0 120 30" preserveAspectRatio="none">
+        <rect width="120" height="30" fill="#FFD700"></rect>
+        <text x="60" y="20" alignment-baseline="middle" text-anchor="middle" font-size="12" fill="#282C34">
+            Let's Connect and Build Something Great!
+        </text>
+    </svg>
+</p>
+
+---
+
+<div align="center">
+    <p>🌟 Thank You for Visiting 🌟</p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+        <path d="M10 80 C40 10, 120 10, 180 80" fill="none" stroke="#ff5722" stroke-width="4" />
+    </svg>
+</div>
