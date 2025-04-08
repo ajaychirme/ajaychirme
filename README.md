@@ -1,7 +1,8 @@
 # Hi, I'm Ajay Chirme 👋
-
-💻 Front-End Developer with 3 years of experience  
-🎨 Passionate about crafting elegant web interfaces  
+<div align="center">
+    <p>💻 Front-End Developer with 3 years of experience</p>
+    <p>🎨 Passionate about crafting elegant web interfaces</p>
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/AjayChirme/github-profile-content/main/wave.svg" alt="Wave Animation" style="max-width: 100%;">
