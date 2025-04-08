@@ -1,4 +1,4 @@
-<p align="center"># Hi, I'm Ajay Chirme 👋</p>
+<div align="center"># Hi, I'm Ajay Chirme 👋</div>
 <div align="center">
     <p>💻 Front-End Developer with 3 years of experience</p>
     <p>🎨 Passionate about crafting elegant web interfaces</p>
@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">## 🔧 Technologies & Tools</p>
+<div align="center">## 🔧 Technologies & Tools</div>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
