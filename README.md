@@ -4,9 +4,9 @@
     <p>🎨 Passionate about crafting elegant web interfaces</p>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AjayChirme/github-profile-content/main/wave.svg" alt="Wave Animation" style="max-width: 100%;">
-</div>
+<p align="center">
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://i.giphy.com/U3qYN8S0j3bpK.webp)" width="100%" />
+</p>
 
 ---
 
